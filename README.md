@@ -13,3 +13,5 @@ Formula:
 ```text
 Simple Interest = Principal x Rate x Time / 100
 ```
+
+This project is maintained for Git and GitHub practice.
